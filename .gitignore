@@ -1,0 +1,3 @@
+# llm.pt
+/actual/**/*.csv
+!data/**/.keep
