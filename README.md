@@ -21,7 +21,7 @@ $ pip3 install -r requirements.txt
 ## Usage
 To use the Sentiment Analyzer, run the following command:
 ```bash
-$ python3 llm.py "this movie sucks"
+$ python3 main.py "this movie sucks"
 ```
 
 ## Training
